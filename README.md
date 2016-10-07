@@ -1,4 +1,5 @@
-## Kullanım Komutları
+Kullanım Komutları
+=
 
 ```python
 	python instaBrute.py -f usernames.txt -d dictionary.txt
